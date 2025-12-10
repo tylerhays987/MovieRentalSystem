@@ -1,0 +1,14 @@
+C:\Users\Tyler\source\repos\MovieRentalSystem\MovieRentalSystem\bin\Debug\net8.0\MovieRentalSystem.exe
+C:\Users\Tyler\source\repos\MovieRentalSystem\MovieRentalSystem\bin\Debug\net8.0\MovieRentalSystem.deps.json
+C:\Users\Tyler\source\repos\MovieRentalSystem\MovieRentalSystem\bin\Debug\net8.0\MovieRentalSystem.runtimeconfig.json
+C:\Users\Tyler\source\repos\MovieRentalSystem\MovieRentalSystem\bin\Debug\net8.0\MovieRentalSystem.dll
+C:\Users\Tyler\source\repos\MovieRentalSystem\MovieRentalSystem\bin\Debug\net8.0\MovieRentalSystem.pdb
+C:\Users\Tyler\source\repos\MovieRentalSystem\MovieRentalSystem\obj\Debug\net8.0\MovieRentalSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tyler\source\repos\MovieRentalSystem\MovieRentalSystem\obj\Debug\net8.0\MovieRentalSystem.AssemblyInfoInputs.cache
+C:\Users\Tyler\source\repos\MovieRentalSystem\MovieRentalSystem\obj\Debug\net8.0\MovieRentalSystem.AssemblyInfo.cs
+C:\Users\Tyler\source\repos\MovieRentalSystem\MovieRentalSystem\obj\Debug\net8.0\MovieRentalSystem.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\source\repos\MovieRentalSystem\MovieRentalSystem\obj\Debug\net8.0\MovieRentalSystem.dll
+C:\Users\Tyler\source\repos\MovieRentalSystem\MovieRentalSystem\obj\Debug\net8.0\refint\MovieRentalSystem.dll
+C:\Users\Tyler\source\repos\MovieRentalSystem\MovieRentalSystem\obj\Debug\net8.0\MovieRentalSystem.pdb
+C:\Users\Tyler\source\repos\MovieRentalSystem\MovieRentalSystem\obj\Debug\net8.0\MovieRentalSystem.genruntimeconfig.cache
+C:\Users\Tyler\source\repos\MovieRentalSystem\MovieRentalSystem\obj\Debug\net8.0\ref\MovieRentalSystem.dll
